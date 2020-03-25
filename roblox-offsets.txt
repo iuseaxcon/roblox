@@ -1,7 +1,6 @@
-spawn|7512592|cdecl|
-deserializer|9208240|cdecl|
-pushlstring|8175504|cdecl|
-setfield|8179072|fastcall|
-datamodel|14775632|stdcall|
-newthread|8173024|cdecl
-ok|8172000|cdecl
+lua_newthread|17020384|cdecl|
+lua_pushlstring|17022864|cdecl|
+lua_setfield|17026432|fastcall|
+spawn|16359952|cdecl|
+deserialize|18055600|cdecl|
+scriptcontext|29694744|cdecl|
